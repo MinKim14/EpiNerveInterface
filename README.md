@@ -1,5 +1,5 @@
 # EpiNerveInterface
-# 🧠 Behavior Decoding with the e-Epi (Coming Soon!)
+# 🧠 Behavior Decoding with the e-epi (Coming Soon!)
 
 Yeonzu Son1†, Hyeonseok Jeong2†, Min Kim3, Somin Lee1, Ain Chung1,4, Jiheong Kang2*, Hyunwoo Yuk5*‡, Seongjun Park 3,6,7,8,9*
 
@@ -7,10 +7,10 @@ This repository will provide the official code, pretrained models, and datasets 
 
 **"Anti-fibrotic Electronic Epineurium for High-fidelity Chronic Peripheral Nerve Interface in Freely Moving Animals"**
 
-In this work, we demonstrate high-accuracy behavior decoding using signals recorded from our novel electronic epineurium (e-Epi) interface.
+In this work, we demonstrate high-accuracy behavior decoding using signals recorded from our novel electronic epineurium (e-epi) interface.
 
 ## 🚀 Key Features
-- End-to-end **behavior decoding** pipeline using e-Epi signals
+- End-to-end **behavior decoding** pipeline using peripheral nerve signals recorded with the e-epi
 - Transformer-based deep learning models
 - Lightweight linear models for comparison
 - Dataset for freely moving animal nerve recordings
